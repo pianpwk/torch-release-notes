@@ -6,4 +6,7 @@ Handle any commits that actually do belong to your domain and remove them from t
 
 ## Untopiced
 
+Serialization:
+- Improve error message for weight-only load errors ([#159935](https://github.com/pytorch/pytorch/pull/159935))
+
 ## not user facing
